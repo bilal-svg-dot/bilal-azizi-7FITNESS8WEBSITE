@@ -87,6 +87,7 @@ Récupération active
 
 👨‍💻 Auteur
 Ilyass - GitHub
+bilal - github
 
 📄 License
 Projet open source - libre à utiliser et modifier.
