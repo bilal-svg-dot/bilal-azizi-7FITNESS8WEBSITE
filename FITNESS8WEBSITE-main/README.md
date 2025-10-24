@@ -85,7 +85,7 @@ Récupération active
 
 📱 Code Source: GitHub Repository
 
-👨‍💻 Auteur
+👨‍💻 Auteurs
 Ilyass - GitHub
 bilal - github
 
